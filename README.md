@@ -1,6 +1,6 @@
 # LoveButton - Angular
 
-Exercise of OpenClassRoom.
+Exercise of OpenClassRooms.
 
 ## Run this app
 
